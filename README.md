@@ -13,7 +13,9 @@ https://www.codecademy.com/learn/python
 https://try.jupyter.org/
 
 應用想法
+
 大數學堂 - http://www.largitdata.com/
+
 NumPy    - https://zh.wikipedia.org/zh-tw/NumPy
 
 -------------------------------------------------
