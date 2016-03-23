@@ -20,6 +20,16 @@ NumPy    - https://zh.wikipedia.org/zh-tw/NumPy
 
 -------------------------------------------------
 
+目錄結構
+
+* books/ - 跟書有關的檔案
+* mindmap/ - 心智圖存放
+* notebook/ - jupyter notebook 存放
+* pratice_code_with_codecademy/ - codecademy網站練習相關檔案
+
+
+-------------------------------------------------
+
 Meet up 20160322
 
 * 設定 Github 環境 
