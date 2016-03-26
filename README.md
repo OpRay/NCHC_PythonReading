@@ -18,6 +18,8 @@ https://try.jupyter.org/
 
 NumPy    - https://zh.wikipedia.org/zh-tw/NumPy
 
+Black Hat python - http://techbus.safaribooksonline.com/book/programming/python/9781457189807  http://www.books.com.tw/products/0010692666
+
 -------------------------------------------------
 
 目錄結構
