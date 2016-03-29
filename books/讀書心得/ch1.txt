@@ -1,0 +1,7 @@
+Chapter 1 A taste of Py
+
+Notes:
+* Its design makes it very readable, which is more important than it sounds. Python 的重點是易讀, 因為大部分的時間都是讀取而不是改寫.
+* 使用python3 來啟動 python3, 如果 python 2 與 python 3 同時存在
+* >>> import this - 會列出 python moment of zen
+
