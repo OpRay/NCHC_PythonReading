@@ -6,5 +6,5 @@ my_variable = 10
 print( my_variable )
 print( "my_variable is %s" % my_variable )
 
-
+print( my_variable )
 print( my_variable )
