@@ -13,9 +13,7 @@ https://www.codecademy.com/learn/python
 https://try.jupyter.org/
 
 應用想法
-
 大數學堂 - http://www.largitdata.com/
-
 NumPy    - https://zh.wikipedia.org/zh-tw/NumPy
 
 -------------------------------------------------
@@ -27,9 +25,9 @@ Meet up 20160322
 
 -------------------------------------------------
 
+<<<<<<< HEAD
+=======
 20160329
-* 書看到第一章
-* codecademy unit 1
-
--------------------------------------------------
-
+*書看到第一章
+*codecademy unit 1
+>>>>>>> 161c4eaef968bcce7689229fc8c89c45b1cf38c9
