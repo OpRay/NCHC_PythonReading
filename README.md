@@ -47,3 +47,11 @@ Todo: 20160329
 
 -------------------------------------------------
 
+Meet up 20160412
+
+* IDE 使用PyCharm - https://www.jetbrains.com/pycharm/download/#
+ * 設定參考 
+  * http://pygame.hackersir.org/Lessons/01/PyCharm_config.html
+  * http://my.oschina.net/longmaox/blog/180745 
+
+-------------------------------------------------

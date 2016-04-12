@@ -1,3 +1,4 @@
+# coding=utf-8
 # 定義變數
 # 變數名稱 = 值
 my_variable = 10
