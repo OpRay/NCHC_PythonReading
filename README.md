@@ -54,5 +54,6 @@ Meet up 20160412
   * http://pygame.hackersir.org/Lessons/01/PyCharm_config.html
   * http://my.oschina.net/longmaox/blog/180745 
   * http://www.drsusansim.org/using-git-and-github-from-pycharm/
+* 設定 PyCharm 以及 Git / GitHub 連接
 
 -------------------------------------------------
