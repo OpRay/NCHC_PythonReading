@@ -1,3 +1,4 @@
+# coding=utf-8
 # 練習設定變數
 # 設定 my_int = 7 類型為 int ( 整數 )
 my_int = 7
