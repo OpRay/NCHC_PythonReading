@@ -58,7 +58,8 @@ Meet up 20160412
   * http://www.drsusansim.org/using-git-and-github-from-pycharm/
 * 設定 PyCharm 以及 Git / GitHub 連接
 * Notes
-  * commit -- > push 遠端自己 GitHub repo -- >  -->  Request Pull request -- > Merge Change  -->  Request Pull request
+  * 如何 pull request
+    * VCS -- > git  -- > commit  -- > push 遠端自己 GitHub repo -- >  -->  Request Pull request -- > Merge Change  -->  Request Pull request
 
 
 -------------------------------------------------
