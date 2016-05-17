@@ -25,8 +25,8 @@ Black Hat python - http://techbus.safaribooksonline.com/book/programming/python/
 目錄結構
 
 * books/ - 跟書有關的檔案
-* books/introducing_python_oreilly - 書中範例
-* books/讀書心得 - 可以將各章節讀書心得共同編輯
+* books/introducing_python_oreilly/ - 書中範例
+* books/讀書心得/ - 可以將各章節讀書心得共同編輯
 * mindmap/ - 心智圖存放
 * notebook/ - jupyter notebook 存放
 * pratice_code_with_codecademy/ - codecademy網站練習相關檔案
