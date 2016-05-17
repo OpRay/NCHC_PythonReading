@@ -60,9 +60,9 @@ Meet up 20160412
 * Notes
   * 如何 pull request
     * 更新自己的 repo
-      * VCS -- > git  -- > commit file -- >  Commit and Push 
+      * VCS -- > git  -- > commit file -- >  Commit and Push -- > Push
     * 提出 PUll request 
-      * VCS -- > git -- > Create Pull request -- > 
+      * VCS -- > git -- > Create Pull request -- >  Base fork 選取遠端 -- > OK
 
 
 -------------------------------------------------
