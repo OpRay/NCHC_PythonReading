@@ -59,7 +59,10 @@ Meet up 20160412
 * 設定 PyCharm 以及 Git / GitHub 連接
 * Notes
   * 如何 pull request
-    * VCS -- > git  -- > commit file -- > push 遠端自己 GitHub repo -- >  -->  Request Pull request -- > Merge Change  -->  Request Pull request
+    * 更新自己的 repo
+      * VCS -- > git  -- > commit file -- >  Commit and Push 
+    * 提出 PUll request 
+      * VCS -- > git -- > Create Pull request -- > 
 
 
 -------------------------------------------------
