@@ -1,74 +1,62 @@
-<p>This is for NCHC python Reading group</p>
+This is for NCHC python Reading group
 
-<p>書
-<a href="https://www.safaribooksonline.com/library/view/introducing-python/9781449361167/">https://www.safaribooksonline.com/library/view/introducing-python/9781449361167/</a></p>
+書
+https://www.safaribooksonline.com/library/view/introducing-python/9781449361167/
 
-<p>心智圖軟體 freemind 下載
-<a href="http://freemind.sourceforge.net/wiki/index.php/Download">http://freemind.sourceforge.net/wiki/index.php/Download</a></p>
+心智圖軟體 freemind 下載
+http://freemind.sourceforge.net/wiki/index.php/Download
 
-<p>線上練習
-<a href="https://www.codecademy.com/learn/python">https://www.codecademy.com/learn/python</a></p>
+線上練習
+https://www.codecademy.com/learn/python
 
-<p>線上code
-<a href="https://try.jupyter.org/">https://try.jupyter.org/</a></p>
+線上code
+https://try.jupyter.org/
 
-<p>應用想法</p>
+應用想法
 
-<p>大數學堂 - <a href="http://www.largitdata.com/">http://www.largitdata.com/</a></p>
+大數學堂 - http://www.largitdata.com/
 
-<p>NumPy    - <a href="https://zh.wikipedia.org/zh-tw/NumPy">https://zh.wikipedia.org/zh-tw/NumPy</a></p>
+NumPy    - https://zh.wikipedia.org/zh-tw/NumPy
 
-<p>Black Hat python - <a href="http://techbus.safaribooksonline.com/book/programming/python/9781457189807">http://techbus.safaribooksonline.com/book/programming/python/9781457189807</a>  <a href="http://www.books.com.tw/products/0010692666">http://www.books.com.tw/products/0010692666</a></p>
+Black Hat python - http://techbus.safaribooksonline.com/book/programming/python/9781457189807  http://www.books.com.tw/products/0010692666
 
-<hr>
+-------------------------------------------------
 
-<p>目錄結構</p>
+目錄結構
 
-<ul>
-<li>books/ - 跟書有關的檔案</li>
-<li>books/introducing_python_oreilly - 書中範例</li>
-<li>books/讀書心得 - 可以將各章節讀書心得共同編輯</li>
-<li>mindmap/ - 心智圖存放</li>
-<li>notebook/ - jupyter notebook 存放</li>
-<li>pratice_code_with_codecademy/ - codecademy網站練習相關檔案</li>
-</ul>
+* books/ - 跟書有關的檔案
+* books/introducing_python_oreilly - 書中範例
+* books/讀書心得 - 可以將各章節讀書心得共同編輯
+* mindmap/ - 心智圖存放
+* notebook/ - jupyter notebook 存放
+* pratice_code_with_codecademy/ - codecademy網站練習相關檔案
 
-<hr>
 
-<p>Meet up 20160322</p>
+-------------------------------------------------
 
-<ul>
-<li>設定 Github 環境 </li>
-</ul>
+Meet up 20160322
 
-<p>Todo: 20160329</p>
+* 設定 Github 環境 
 
-<ul>
-<li>書看到第一章</li>
-<li>codecademy unit 1</li>
-</ul>
 
-<hr>
+Todo: 20160329
 
-<p>Meet up 20160412</p>
 
-<ul>
-<li>IDE 使用PyCharm - <a href="https://www.jetbrains.com/pycharm/download/#">https://www.jetbrains.com/pycharm/download/#</a>
+* 書看到第一章
+* codecademy unit 1
 
-<ul>
-<li>設定參考 </li>
-<li><a href="http://pygame.hackersir.org/Lessons/01/PyCharm_config.html">http://pygame.hackersir.org/Lessons/01/PyCharm_config.html</a></li>
-<li><a href="http://my.oschina.net/longmaox/blog/180745">http://my.oschina.net/longmaox/blog/180745</a> </li>
-<li><a href="http://www.drsusansim.org/using-git-and-github-from-pycharm/">http://www.drsusansim.org/using-git-and-github-from-pycharm/</a></li>
-</ul></li>
-<li>設定 PyCharm 以及 Git / GitHub 連接</li>
-<li>Notes
+-------------------------------------------------
 
-<ul>
-<li>commit -- &gt; push 遠端自己 GitHub repo -- &gt;  --&gt;  Request Pull request -- &gt; Merge Change  --&gt;  Request Pull request</li>
-</ul></li>
-</ul>
+Meet up 20160412
 
----
+* IDE 使用PyCharm - https://www.jetbrains.com/pycharm/download/#
+ * 設定參考 
+  * http://pygame.hackersir.org/Lessons/01/PyCharm_config.html
+  * http://my.oschina.net/longmaox/blog/180745 
+  * http://www.drsusansim.org/using-git-and-github-from-pycharm/
+* 設定 PyCharm 以及 Git / GitHub 連接
+* Notes
+  * commit -- > push 遠端自己 GitHub repo -- >  -->  Request Pull request -- > Merge Change  -->  Request Pull request
 
-Meet up 20160517
+
+-------------------------------------------------
