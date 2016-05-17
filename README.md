@@ -30,7 +30,9 @@ Black Hat python - http://techbus.safaribooksonline.com/book/programming/python/
 * mindmap/ - 心智圖存放
 * notebook/ - jupyter notebook 存放
 * pratice_code_with_codecademy/ - codecademy網站練習相關檔案
-
+* sakana/ - sakana 練習目錄
+* matt/ - 小杜 練習目錄
+* Ray/ - 義棟 練習目錄
 
 -------------------------------------------------
 
@@ -56,7 +58,11 @@ Meet up 20160412
   * http://www.drsusansim.org/using-git-and-github-from-pycharm/
 * 設定 PyCharm 以及 Git / GitHub 連接
 * Notes
-  * commit -- > push 遠端自己 GitHub repo -- >  -->  Request Pull request -- > Merge Change  -->  Request Pull request
+  * 如何 pull request
+    * 更新自己的 repo
+      * VCS -- > git  -- > commit file -- >  Commit and Push -- > Push
+    * 提出 PUll request 
+      * VCS -- > git -- > Create Pull request -- >  Base fork 選取遠端 -- > OK
 
 
 -------------------------------------------------
